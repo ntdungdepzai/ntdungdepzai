@@ -1,6 +1,6 @@
 <!-- Tuyết rơi -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXJrMnl3c2pweWZ5bHUzeHBhb3JvZnZ5Z3R2dW5tbzdtYm53c3p3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">
